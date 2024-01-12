@@ -1,5 +1,4 @@
 # datafun-01-utils
-# datafun-01-attr
 # Specification for Project 1 Python Module by Topaz Montague
 
 ## Overview
